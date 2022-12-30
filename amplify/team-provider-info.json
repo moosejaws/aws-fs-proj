@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsproj1530a40b9": {}
+      },
+      "api": {
+        "awsproj1": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
